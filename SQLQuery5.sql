@@ -1,0 +1,1 @@
+SELECT CAST(current_value as int) FROM sys.sequences WHERE name = 'seq_chars'
